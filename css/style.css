@@ -1,0 +1,41 @@
+
+html
+{
+	font-size: 10px;
+}
+
+body
+{
+	margin: 0px;
+	background-color: #ffc600;
+	font-family: sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+}
+
+section
+{
+	float:left;
+	width:100%;
+}
+
+/**************** Header ****************/
+
+header
+{
+	float:left;
+	width:100%;
+}
+
+.words 
+{
+	background-color: #ffffff;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	max-width: 500px;
+	margin: 50px auto;
+	padding: 10px 10px;
+}
+
+
+
